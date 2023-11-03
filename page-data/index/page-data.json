@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---src-pages-index-js",
-    "path": "/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"Geunsik Jo's resume"}},"allMarkdownRemark":{"nodes":[{"excerpt":"About me…","fields":{"slug":"/introduction/"},"frontmatter":{"date":"December 31, 9999","title":"소개","description":"안녕하세요. 풀스택 개발자를 꿈꾸는 조근식입니다"}},{"excerpt":"SuperTrack: Motion Tracking for Physically Simulated Characters using\r\nSupervised Learning 소개 현재 신경망을 사용하는 로봇제어 방법론에는 PPO, TRPO…","fields":{"slug":"/simple-SUPERTRACK/"},"frontmatter":{"date":"May 01, 2021","title":"Simple SuperTrack","description":"Simple SuperTrack은 물리시뮬레이션에서 캐릭터 컨트롤러를 학습하기 위한 지도학습방법을 제안한 supertrack을 구현체 입니다."}},{"excerpt":"…","fields":{"slug":"/JADAL/"},"frontmatter":{"date":"May 01, 2015","title":"JADAL","description":"자달은 미디어사이트의 자막기능을 보조하고 외국어로 된 노래들의 번안을 지원하기 위해 만든 사이트 입니다."}}]}},"pageContext":{}},
-    "staticQueryHashes": ["2841359383","3257411868"]}
